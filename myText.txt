@@ -1,8 +1,7 @@
 Childhood and adulthood traumatic experiences in patients with psoriasis
 PMID: 20883363 DOI: 10.1111/j.1346-8138.2010.00870.x
 It is well known that several psychiatric disorders may be related to childhood psychological trauma. Recent studies have associated childhood exposure to trauma to some skin diseases. Our study aimed at exploring whether psoriasis is related to the reported positive and negative traumatic life events in different age intervals beginning from early childhood to adulthood.
-Furthermore, we investigated differences between psoriatics with early and late onset according to traumatic experiences in different age intervals. Also, we investigated the possible correlation of traumatic experiences with the disease severity. 
-
+Furthermore, we investigated differences between psoriatics with early and late onset according to traumatic experiences in different age intervals. Also, we investigated the possible correlation of traumatic experiences with the disease severity. One hundred patients with psoriasis and 101 controls (patients with skin conditions considered to be "non-psychosomatic") were enrolled in the study. All participants completed a specific questionnaire measuring traumatic life experiences (Traumatic Antecedents Questionnaire, TAQ). The TAQ assesses positive personal experiences (competence and safety) and negative personal experiences (neglect, separation, secrets, emotional, physical and sexual abuse, trauma witnessing, other traumas and exposure to alcohol/drugs) from early childhood to adulthood. The severity of psoriasis was estimated according to the Psoriasis Area and Severity Index (PASI), a standardized measuring instrument. The amount of positive experiences did not differ significantly among groups, except for safety scores that were higher in controls compared with both psoriatic groups (early and late onset). 
 
 
 
